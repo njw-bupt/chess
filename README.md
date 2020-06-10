@@ -1,4 +1,5 @@
 # chess
+一个简单的对弈游戏
 
 ## Project setup
 ```
